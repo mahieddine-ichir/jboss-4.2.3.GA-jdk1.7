@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.jboss.ide.eclipse.as.classpath.core.javaee-5.0"/>
+	<classpathentry kind="lib" path="lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/jbossws-spi.jar"/>
+	<classpathentry kind="lib" path="lib/jbossws-common.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-jaxrpc.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-jaxws.jar"/>
+	<classpathentry kind="lib" path="lib/jbossws-framework.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-xml-binding.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-remoting.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-common.jar"/>
+	<classpathentry kind="lib" path="lib/jbossws.sar/policy.jar"/>
+	<classpathentry kind="lib" path="lib/jbossws.sar/stax-api.jar"/>
+	<classpathentry kind="lib" path="lib/jbossws.sar/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="lib/endorsed/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/endorsed/xalan.jar"/>
+	<classpathentry kind="lib" path="lib/woodstox-core-asl-4.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/jbossws.sar/wstx.jar"/>
+	<classpathentry kind="lib" path="lib/jbossws.sar/xmlsec.jar"/>
+	<classpathentry kind="lib" path="lib/jbossws.sar/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="lib/ant.jar"/>
+	<classpathentry kind="lib" path="lib/codemodel-2.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/jaxws-tools-2.2.10.jar"/>
+	<classpathentry kind="lib" path="lib/jbossws.sar/jettison.jar"/>
+	<classpathentry kind="lib" path="lib/jbossws.sar/jboss-jaxb-intros.jar"/>
+	<classpathentry kind="lib" path="lib/jbosssx.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
