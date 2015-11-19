@@ -23,6 +23,6 @@ Using a ZIP tool (Z-zip or else):
 - jboss-jaxrpc.jar
 - jboss-jaxws.jar
 - jboss-jaxws-ext.jar
-- jaxb-api.jar 
+- jaxb-api.jar
 
 2. It it important to compile the `AbstractWrapperGenerator.java` with a Java 1.6 compliance level, otherwiser you will encounter problems of type `java.lang.UnsupportedClassVersionError`
