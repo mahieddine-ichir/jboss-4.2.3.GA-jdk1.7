@@ -18,10 +18,11 @@ Using a ZIP tool (Z-zip or else):
 
 ## Important notes
 1. You may have also to place the following libraries within the JBoss `endorsed` folder
+
 - jboss-saaj.jar
 - jboss-jaxrpc.jar
 - jboss-jaxws.jar
 - jboss-jaxws-ext.jar
 - jaxb-api.jar 
 
-2. It it important to compile the *AbstractWrapperGenerator.java* with a Java 1.6 compliance level, otherwiser you will encounter problems of type `java.lang.UnsupportedClassVersionError`
+2. It it important to compile the `AbstractWrapperGenerator.java` with a Java 1.6 compliance level, otherwiser you will encounter problems of type `java.lang.UnsupportedClassVersionError`
